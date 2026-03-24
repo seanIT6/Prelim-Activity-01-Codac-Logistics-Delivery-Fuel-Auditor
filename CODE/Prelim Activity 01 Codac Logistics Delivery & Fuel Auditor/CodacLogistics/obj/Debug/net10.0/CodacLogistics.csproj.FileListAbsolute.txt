@@ -1,0 +1,14 @@
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\bin\Debug\net10.0\CodacLogistics.exe
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\bin\Debug\net10.0\CodacLogistics.deps.json
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\bin\Debug\net10.0\CodacLogistics.runtimeconfig.json
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\bin\Debug\net10.0\CodacLogistics.dll
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\bin\Debug\net10.0\CodacLogistics.pdb
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.AssemblyInfoInputs.cache
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.AssemblyInfo.cs
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.csproj.CoreCompileInputs.cache
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.dll
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\refint\CodacLogistics.dll
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.pdb
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\CodacLogistics.genruntimeconfig.cache
+D:\Prelim Activity 01 Codac Logistics Delivery & Fuel Auditor\CodacLogistics\obj\Debug\net10.0\ref\CodacLogistics.dll
